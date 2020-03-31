@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I would like to master **HTML, CSS, XML, JSP, PYTHON, R, C, C++, JAVA** and ofcourse *Git* and *GitHub*.
+I speak Serbian :smiley:
