@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* coffee
+* books
+* movies
+  * willow
+  * star wars
+  * interstellar
+* hiking
